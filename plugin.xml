@@ -21,7 +21,7 @@ and limitations under the License
     <description>Intel XDK Display Plugin</description>
     <license>Apache 2.0</license>
     <keywords>Intel XDK, intel.xdk, file</keywords>
-    <repo>https://github.com/01org/cordova-plugin-intel-xdk-display.git</repo>
+    <repo>https://github.com/gtdewitt/cordova-plugin-intel-xdk-display.git</repo>
     <issue></issue>
 
     <js-module src="www/display.js" name="display">
